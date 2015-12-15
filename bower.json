@@ -1,0 +1,24 @@
+{
+  "name": "opbeat-js",
+  "version": "0.0.1",
+  "authors": [
+    "opbeat",
+    "deliriousrhino"
+  ],
+  "description": "A bower install for the opbeat js module. Will neet to sync when they update.",
+  "main": "angular-opbeat.min.js",
+  "moduleType": [],
+  "keywords": [
+    "opbeat",
+    "angularjs"
+  ],
+  "license": "MIT",
+  "homepage": "https://opbeat.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
